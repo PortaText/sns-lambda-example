@@ -1,0 +1,45 @@
+{
+  "version": "0.0.1",
+  "description": "Example use of the PortaText node-sdk with Amazon SNS and Lambda",
+  "name": "portatext-sns-lambda-example",
+  "keywords": [
+    "portatext",
+    "sms",
+    "client",
+    "official",
+    "sns",
+    "amazon",
+    "lambda"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/portatext/sns-lambda-examplea",
+  "author": "PortaText",
+  "contributors": [
+    {
+      "name": "Marcelo Gornstein",
+      "email": "marcelog@portatext.com",
+      "url": "http://marcelog.github.io/"
+    }
+  ],
+  "files": [
+    "src",
+    "LICENSE",
+    "README.md",
+    "package.json"
+  ],
+  "main": "src/index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/portatext/sns-lambda-example"
+  },
+  "dependencies": {
+    "portatext": "~1.4"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "bugs": {
+    "url": "https://github.com/portatext/sns-lambda-example/issues",
+    "email": "hello@portatext.com"
+  }
+}
